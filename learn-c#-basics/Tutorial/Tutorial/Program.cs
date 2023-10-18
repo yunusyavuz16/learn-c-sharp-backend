@@ -1,5 +1,7 @@
 ﻿using System;
 using HelloWorld;
+using Tutorial.ApplyKnowledgeProblemOne;
+using Tutorial.String;
 
 namespace Tutorial
 {
@@ -17,6 +19,19 @@ namespace Tutorial
             /* The code below will print the words Hello World
                 to the screen, and it is amazing */
             newWorld.HelloWorldWriteFunction();
+
+            var newClass = new StringMethods();
+            newClass.GetMyFullName();
+            //in static public this is the way;
+            StringMethods.MyFullName();
+
+            //lets loop
+            var myCarClass = new ArrayLoop.ArrayLoop();
+            myCarClass.loopArrayMethod();
+
+            var firstProblemSolution = new TutorialProblem();
+            int average = firstProblemSolution.findAverage();
+            firstProblemSolution.commentAverage(average);
         }
     }
 }
