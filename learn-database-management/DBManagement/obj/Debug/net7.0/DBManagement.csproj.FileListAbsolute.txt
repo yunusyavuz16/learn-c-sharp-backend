@@ -1,0 +1,15 @@
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/bin/Debug/net7.0/DBManagement
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/bin/Debug/net7.0/DBManagement.deps.json
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/bin/Debug/net7.0/DBManagement.runtimeconfig.json
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/bin/Debug/net7.0/DBManagement.dll
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/bin/Debug/net7.0/DBManagement.pdb
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.csproj.AssemblyReference.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.AssemblyInfoInputs.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.AssemblyInfo.cs
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.csproj.CoreCompileInputs.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.dll
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/refint/DBManagement.dll
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.pdb
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/DBManagement.genruntimeconfig.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-database-management/DBManagement/obj/Debug/net7.0/ref/DBManagement.dll
