@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Methods/Methods/Methods.csproj",
+      "projectUniqueName": "/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Methods/Method/Methods/Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Methods/Methods/Methods.csproj",
+      "projectPath": "/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Methods/Method/Methods/Methods.csproj",
       "packagesPath": "/Users/yunusyavuz/.nuget/packages/",
-      "outputPath": "/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Methods/Methods/obj/",
+      "outputPath": "/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Methods/Method/Methods/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yunusyavuz/.nuget/NuGet/NuGet.Config"
