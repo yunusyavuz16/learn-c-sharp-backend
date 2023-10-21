@@ -1,0 +1,15 @@
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/bin/Debug/net7.0/Classes
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/bin/Debug/net7.0/Classes.dll
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.dll
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/yunusyavuz/c#-learn/learn-c-sharp-backend/learn-c#-basics/Classes/obj/Debug/net7.0/ref/Classes.dll
