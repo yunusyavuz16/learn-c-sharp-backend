@@ -1,28 +1,25 @@
 namespace Classes;
 
-public class PolyMorphism
+public class Animal
 {
-    public class Animal
+    public virtual void animalSound()
     {
-        public void AnimalSound()
-        {
-            Console.WriteLine("The animal makes a sound");
-        }
+        Console.WriteLine("The animal makes a sound");
     }
+}
 
-    public class Dog : Animal
+public class Dog : Animal
+{
+    public override void animalSound()
     {
-        public void AnimalSound()
-        {
-            Console.WriteLine("The animal makes a sound hav hav");
-        }
+        Console.WriteLine("The animal makes a sound hav hav");
     }
+}
 
-    public class Cat : Animal
+public class Cat : Animal
+{
+    public override void animalSound()
     {
-        public void AnimalSound()
-        {
-            Console.WriteLine("The animal makes a sound meaw meaw");
-        }
+        Console.WriteLine("The animal makes a sound meaw meaw");
     }
 }

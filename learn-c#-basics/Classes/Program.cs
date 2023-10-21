@@ -59,5 +59,13 @@ class Program
         Console.WriteLine("fruit Name" + myApple.Name);
         Console.WriteLine("Fruit is grow on tree: " + myApple.GrowOnTree);
         Console.WriteLine("custom fruit variable" + myApple.AppleCustomParamter);
+
+        //Polymorphism
+        Animal myAnimal = new Animal();
+        Cat myCat = new Cat();
+        Dog myDog = new Dog();
+        myAnimal.animalSound();
+        myCat.animalSound();
+        myDog.animalSound();
     }
 }
